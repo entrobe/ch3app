@@ -8,18 +8,20 @@ development:
   encoding: utf8
   database: dev
   username: entrobe
-  password: Steelers7
+  password: Steeler7
+  host: localhost
 
 test:
   adapter: postgresql
   encoding: utf8
   database: test
   username: entrobe
-  password: Steelers7
+  password: Steeler7
+  host: localhost
 
-  production:
-    adapter: postgresql
-    encoding: utf8
-    database: prod
-    username: entrobe
-    password: Steelers7
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: prod
+  username: entrobe
+  password: Steelers7
