@@ -7,16 +7,16 @@ development:
   adapter: postgresql
   encoding: utf8
   database: dev
-  username: entrobe
-  password: Steeler7
+  username: brian
+  password: Steelers7
   host: localhost
 
 test:
   adapter: postgresql
   encoding: utf8
   database: test
-  username: entrobe
-  password: Steeler7
+  username: brian
+  password: Steelers7
   host: localhost
 
 production:
