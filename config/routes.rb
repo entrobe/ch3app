@@ -1,6 +1,5 @@
 Ch3App::Application.routes.draw do
-  get "users/new"
-
+  resources :users
   root to: 'static_pages#home'
   match '/home', to: 'static_pages#home'
   match '/about', to: 'static_pages#about'
