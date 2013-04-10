@@ -4,19 +4,35 @@ describe 'User pages' do
 
   subject { page }
 
+
+  shared_examples_for 'all user pages' do
+    it {should have_selector('h1', text: heading)}
+    it {should have_title full_title(page_title)}
+  end
+
   describe 'signup page' do
+    let(:heading) { 'Sign up' }
+    let(:page_title) { 'Sign up'}
     before { visit signup_path }
 
-    it { should have_selector('h1',    text: 'Sign up') }
-    it { should have_selector('title', text: full_title('Sign up')) }
+    it_should_behave_like 'all user pages'
   end
 
   describe 'profile page' do
+<<<<<<< HEAD
     let(:user) {FactoryGirl.create(:user)}
     before {visit user_path(user)}
 
     it{ should have_selector 'h1', text: user.name}
     it{ should have_selector 'title', text: user.name}
+=======
+    let(:user) { FactoryGirl.create(:user) }
+    let(:heading) { user.name }
+    let(:page_title) { user.name }
+    before { visit user_path(user) }
+
+    it_should_behave_like 'all user pages'
+>>>>>>> sign-in-out
   end
 
   describe "signup" do
@@ -32,8 +48,13 @@ describe 'User pages' do
       describe "after submission" do
         before { click_button submit }
 
+<<<<<<< HEAD
         it { should have_selector('title', text: 'Sign up') }
         it { should have_content('error') }
+=======
+        it { should have_title 'Sign up' }
+        it { should have_content 'error' }
+>>>>>>> sign-in-out
       end
     end
 
@@ -52,8 +73,14 @@ describe 'User pages' do
         before { click_button submit }
         let(:user) { User.find_by_email('user@example.com') }
 
+<<<<<<< HEAD
         it { should have_selector('title', text: user.name) }
         it { should have_selector('div.alert.alert-success', text: 'Welcome') }
+=======
+        it{ should have_title user.name }
+        it{ should have_selector 'div.alert.alert-success', text: 'Welcome' }
+        it{ should have_link 'Sign out'}
+>>>>>>> sign-in-out
       end
     end
   end
