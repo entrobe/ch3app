@@ -95,11 +95,24 @@ describe 'Authentication' do
             before { visit users_path }
             it { should have_title 'Sign in'}
           end
+
+          describe 'submitting to the update action' do
+            before { put user_path user }
+            specify { response.should redirect_to signin_path }
+          end
         end
 
-        describe 'submitting to the update action' do
-          before { put user_path user }
-          specify { response.should redirect_to signin_path }
+        describe 'in the Microposts controller' do
+
+          describe 'submitting to the create action' do
+            before { post microposts_path }
+            specify { response.should redirect_to signin_path }
+          end
+
+          describe 'submitting to the destroy action' do
+            before { delete micropost_path FactoryGirl.create(:micropost)}
+            specify { response.should redirect_to signin_path}
+          end
         end
 
         describe 'when attempting to visit a protected page' do
