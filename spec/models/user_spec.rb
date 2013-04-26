@@ -12,7 +12,8 @@ describe User do
   it{should respond_to :password_confirmation}
   it{should respond_to :authenticate}
   it{should respond_to :microposts}
-  it{should respond_to :remember_token}
+  it{should respond_to :remember_token} 
+  it{should respond_to :feed}
 
   it{should be_valid}
   it{should_not be_admin}
@@ -61,10 +62,10 @@ describe User do
     it 'should be invalid' do
       addresses = %w[user@foo,com user_at_foo.org example.user@foo.
                      foo@bar_baz.com foo@bar+baz.com]
-      addresses.each do |invalid_address|
-        @user.email = invalid_address
-        @user.should_not be_valid
-      end
+                     addresses.each do |invalid_address|
+                       @user.email = invalid_address
+                       @user.should_not be_valid
+                     end
     end
   end
 
@@ -142,6 +143,16 @@ describe User do
       @user.microposts.should == [newer_micropost, older_micropost]
     end
 
+    describe 'status' do
+      let(:unfollowed_post) do
+        FactoryGirl.create(:micropost, user: FactoryGirl.create(:user))
+      end
+
+      its(:feed) { should include(newer_micropost) }
+      its(:feed) { should include(older_micropost) }
+      its(:feed) { should_not include(unfollowed_post) }
+
+    end
     it 'should destroy associated microposts' do
       microposts = @user.microposts.dup
       @user.destroy

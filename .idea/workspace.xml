@@ -2,27 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/_fields.html.erb" afterPath="$PROJECT_DIR$/app/views/users/_fields.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ch3_app.iml" afterPath="$PROJECT_DIR$/.idea/ch3_app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories.rb" afterPath="$PROJECT_DIR$/spec/factories.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/root.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/root.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tasks/sample_data.rake" afterPath="$PROJECT_DIR$/lib/tasks/sample_data.rake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/microposts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/microposts_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/user_pages_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/user_pages_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/user_spec.rb" afterPath="$PROJECT_DIR$/spec/models/user_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ch3_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365995115530" ignored="false" />
+    <file path="/Dummy.txt" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366948862054" ignored="false" />
     <file path="/user_pages_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365996159186" ignored="false" />
     <file path="/users_controller.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365995705751" ignored="false" />
     <file path="/edit.html.erb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365973549433" ignored="false" />
@@ -51,9 +47,64 @@
     <file path="/application.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365990719298" ignored="false" />
     <file path="/show.html.erb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365995320787" ignored="false" />
     <file path="/_micropost.html.erb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365995523993" ignored="false" />
-    <file path="/routes.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365996540981" ignored="false" />
+    <file path="/routes.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366410961474" ignored="false" />
     <file path="/microposts_controller.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365997015414" ignored="false" />
     <file path="/micropost_pages_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1365997481906" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughWorksRailRoad/railroad_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366316960268" ignored="false" />
+    <file path="/railroad_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366316959410" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughWorksRailRoad/test_input.txt" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366318950944" ignored="false" />
+    <file path="/test_input.txt" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366318635470" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughWorksRailRoad/test_runner_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366320785475" ignored="false" />
+    <file path="/test_runner_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366409234619" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughWorksRailRoad/test_runner.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366319088781" ignored="false" />
+    <file path="/temp.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366418002520" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/test_runner_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366344342810" ignored="false" />
+    <file path="/test_runner.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366409722650" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/test_runner.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366344550308" ignored="false" />
+    <file path="/fragment.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366662115293" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/route.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366654746224" ignored="false" />
+    <file path="/route.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366654745270" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/route_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366651766810" ignored="false" />
+    <file path="/route_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366651764525" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/test_input" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366480808068" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/calculator_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366664452444" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculator.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366663564520" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/distance_calculation.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366345037135" ignored="false" />
+    <file path="/distance_calculation.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366345037135" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/distance_calculation_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366345171267" ignored="false" />
+    <file path="/distance_calculation_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366345169807" ignored="false" />
+    <file path="/calculator.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366665556013" ignored="false" />
+    <file path="/calculator_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366664448517" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/trips_by_stops_calculation.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366409447106" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/trips_by_stops_calculation_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366409700575" ignored="false" />
+    <file path="/trips_by_stops_calculation_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366409700575" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculations/trips_by_stops.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366416441510" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculations/distance.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366654925070" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/distance_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366654878205" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/routes.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366410964117" ignored="false" />
+    <file path="/distance_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366654877544" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/trips_by_stops_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366471635768" ignored="false" />
+    <file path="/trips_by_stops_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366471614521" ignored="false" />
+    <file path="/trips_by_stops.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366416432472" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculations/trips_by_max_stops.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366471578391" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculations/exact_stops.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366659748997" ignored="false" />
+    <file path="/exact_stops.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366659748317" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/exact_stops_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366480814817" ignored="false" />
+    <file path="/exact_stops_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366480378131" ignored="false" />
+    <file path="/max_stops.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366660044340" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculations/max_stops.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366660055597" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculations/shortest_route.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366661063820" ignored="false" />
+    <file path="/shortest_route.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366582432282" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/shortest_route_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366582226569" ignored="false" />
+    <file path="/shortest_route_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366581064994" ignored="false" />
+    <file path="/distance.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366654799196" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/railroad/calculations/min_distance.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366663509949" ignored="false" />
+    <file path="/min_distance.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366663333846" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/ThoughtWorksRailroad/test/min_distance_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366663505213" ignored="false" />
+    <file path="/min_distance_spec.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366663001748" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/TrainsRuby/railroad/calculator.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366665627260" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/TrainsRuby/railroad/program.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366665650609" ignored="false" />
+    <file path="/program.rb" changelist="245e2fcd-4f5c-4b05-96a7-7dd455ca2ae9" time="1366665649886" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,46 +121,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="user_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/requests/user_pages_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="36" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="134" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="69" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="microposts_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/microposts_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="57" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="micropost_pages_spec.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="micropost_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/requests/micropost_pages_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="9" selection-start="511" selection-end="511" vertical-scroll-proportion="0.3442623">
+            <state line="7" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,34 +133,25 @@
       <file leaf-file-name="authentication_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="62" selection-start="4042" selection-end="4042" vertical-scroll-proportion="0.0">
+            <state line="117" column="55" selection-start="3829" selection-end="3829" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sessions_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
+      <file leaf-file-name="user_spec.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="54" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0">
+            <state line="138" column="54" selection-start="3753" selection-end="3753" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="131" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
+            <state line="24" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,8 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/spec/models/micropost_spec.rb" />
         <option value="$PROJECT_DIR$/app/models/micropost.rb" />
         <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
@@ -184,7 +188,9 @@
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/microposts_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/spec/requests/micropost_pages_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
       </list>
     </option>
   </component>
@@ -196,7 +202,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1985" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="1855" />
     <option name="height" value="1056" />
@@ -227,6 +233,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -273,7 +280,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch3_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch3_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="requests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,55 +417,19 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="spork.debugging.info.shown" value="true" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="spork.debugging.info.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="RSpec.All specs in: spec">
-    <configuration default="false" name="Authentication signin authorization for non-signed-in users when attempting to visit a protected page after signing in when signing in again should render the default (profile) page" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="ch3_app" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Authentication signin authorization for non-signed-in users when attempting to visit a protected page after signing in when signing in again should render the default (profile) page" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="true" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <RunnerSettings RunnerId="RubyDebugRunner" />
-      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="RSpec.static_pages_spec">
     <configuration default="false" name="Authentication signin authorization as admin user submitting a DELETE request to the User#delete action" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="ch3_app" />
@@ -581,6 +570,41 @@
       <ConfigurationWrapper RunnerId="RubyDebugRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="static_pages_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="ch3_app" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="" />
@@ -687,19 +711,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="RSpec.Authentication signin authorization for non-signed-in users when attempting to visit a protected page after signing in when signing in again should render the default (profile) page" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.Authentication signin authorization as admin user submitting a DELETE request to the User#delete action" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.authentication_pages_spec" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.micropost_spec" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.All specs in: spec" />
+      <item index="0" class="java.lang.String" itemvalue="RSpec.Authentication signin authorization as admin user submitting a DELETE request to the User#delete action" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.authentication_pages_spec" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.micropost_spec" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.All specs in: spec" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.static_pages_spec" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.All specs in: spec" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.micropost_spec" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.authentication_pages_spec" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.Authentication signin authorization as admin user submitting a DELETE request to the User#delete action" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.authentication_pages_spec" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.static_pages_spec" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.All specs in: spec" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.micropost_spec" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.authentication_pages_spec" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.Authentication signin authorization as admin user submitting a DELETE request to the User#delete action" />
       </list>
     </recent_temporary>
   </component>
@@ -731,14 +755,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16086236" sideWeight="0.970894" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17412935" sideWeight="0.970894" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3981289" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -747,7 +771,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -842,74 +866,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="81" selection-start="2727" selection-end="2727" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="22" selection-start="4032" selection-end="4036" vertical-scroll-proportion="0.0">
+        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="59" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/microposts/_micropost.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="63" selection-start="160" selection-end="160" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="15" selection-start="469" selection-end="469" vertical-scroll-proportion="-12.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/sample_data.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="91" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/micropost_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="83" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+        <state line="20" column="52" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/requests/user_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="36" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="36" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="134" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="54" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="62" selection-start="4042" selection-end="4042" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="162" column="0" selection-start="2147" selection-end="2147" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
@@ -921,35 +906,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="131" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="19" column="5" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="69" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="13" column="57" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/microposts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="57" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+        <state line="3" column="12" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="20" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../.rvm/gems/ruby-1.9.2-p320/gems/rspec-expectations-2.11.3/lib/rspec/expectations/syntax.rb">
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/kernel.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="14" selection-start="2792" selection-end="2792" vertical-scroll-proportion="0.33333334">
+        <state line="531" column="55" selection-start="20840" selection-end="20840" vertical-scroll-proportion="0.6009693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="449" selection-end="449" vertical-scroll-proportion="0.33925685" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/requests/micropost_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="9" selection-start="511" selection-end="511" vertical-scroll-proportion="0.3442623">
+        <state line="7" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="55" selection-start="3829" selection-end="3829" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="54" selection-start="3753" selection-end="3753" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
